@@ -1,10 +1,6 @@
 # AI-Ready-Apps
 The detailed list of instructions to make a production ready application by just listing a few prompts
 
-
-# AI-Ready-Apps
-The detailed list of instructions to make a production ready application by just listing a few prompts
-
 First Create an account for using Cursor
 
 Step # 1 [First Install Node in your Computer]
